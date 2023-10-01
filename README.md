@@ -40,8 +40,10 @@ Train the convolutional auto-encoder for image denoising on CIFAR10.
 - Same model and training configurations as the image reconstruction task.
   
 ### Results
-- The model converged at a loss of `0.017` by epoch 8.
-- ![Convergence of Loss for Denoising](path/to/your/figure3.png)
+- The model converged at a loss of `0.017` by epoch 8. The plo can be seen below:
+ <p align="center">
+  <img src="https://github.com/arushi2509/Autoencoder-for-Image-Reconstruction-and-Image-Denoising/assets/69112495/88332823-595e-4caf-a040-12562ff2525a" alt="Convergence of Loss for Denoising">
+</p> 
 - Sample denoising results:
   ![Original vs Noisy vs Denoised Images](path/to/your/figure4.png)
 - Performance Metrics:
