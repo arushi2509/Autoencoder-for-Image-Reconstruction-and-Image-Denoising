@@ -26,7 +26,9 @@ Design and train a convolutional auto-encoder for image reconstruction on the CI
 
 ### Results
 - The model converged at a loss of `0.005` by epoch 9.
-  https://www.overleaf.com/project/64434bb1470f30542936f2f8/file/64436d056fd9bfca8ddca9b9
+<p align="center">
+  <img src="https://github.com/arushi2509/Autoencoder-for-Image-Reconstruction-and-Image-Denoising/assets/69112495/c4c5fdae-563c-41c8-bb98-61515f56cebe">
+</p>
 - Sample reconstructions:
   ![Original vs Reconstructed Images](path/to/your/figure2.png)
 
