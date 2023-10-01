@@ -1,4 +1,3 @@
-# Autoencoder-for-Image-Reconstruction-and-Image-Denoising
 # Convolutional Auto-Encoder for Image Reconstruction and Denoising
 
 This project involves building and training a convolutional auto-encoder model for the tasks of image reconstruction and denoising using the CIFAR10 dataset.
