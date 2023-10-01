@@ -25,12 +25,10 @@ Design and train a convolutional auto-encoder for image reconstruction on the CI
 - Optimizer: Adam.
 
 ### Results
-- The model converged at a loss of `0.005` by epoch 9.
+- The model converged at a loss of `0.005` by epoch 9. The plot can be seen below:
 <p align="center">
-  <img src="https://github.com/arushi2509/Autoencoder-for-Image-Reconstruction-and-Image-Denoising/assets/69112495/c4c5fdae-563c-41c8-bb98-61515f56cebe">
+  <img src="https://github.com/arushi2509/Autoencoder-for-Image-Reconstruction-and-Image-Denoising/assets/69112495/11dc8912-4430-4d28-90d1-e1e66d413c8c" alt="Convergence of Loss for Image Reconstruction">
 </p>
-- Sample reconstructions:
-  ![Original vs Reconstructed Images](path/to/your/figure2.png)
 
 ## Denoising
 
